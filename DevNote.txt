@@ -1,0 +1,19 @@
+24.4.15
+[UI update]
+(使用原則)
+1. 設定最大父物件的layout大小
+2. 設定最小單位的子物件min
+3. 設定ChildForceExpand自動填滿 
+
+(詳細說明)
+- 父物件使用Horizontal/ Vertical Layout Group管理子物件
+	- Control Child Size 可以控制子物件 
+	- Child Force Expand 子物件強制填滿空間
+
+- 子物件使用Layout Element作為被管理的物件
+	- Min 最小尺寸
+	- Preferred 最大尺寸(如果父物件勾選Child Force Expand就忽略)
+	- Flexible 彈性尺寸(如果父物件勾選Child Force Expand就忽略)
+--------------------------------------------------------------------------------------------------------
+
+
