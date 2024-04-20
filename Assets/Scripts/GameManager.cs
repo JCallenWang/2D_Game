@@ -10,7 +10,6 @@ public class GameManager : MonoBehaviour
     public RectTransform mainGameArea;
 
     public Button[] spawnFishButton;
-    public GameObject[] fishPrefabs;
 
     // Start is called before the first frame update
     void Start()
