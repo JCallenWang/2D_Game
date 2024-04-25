@@ -214,5 +214,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 115e91511119e814b82bb26a3739b51d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  type: 0
-  fishPrefabs: {fileID: 7715688148212412263}
+  price: 50

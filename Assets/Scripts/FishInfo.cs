@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class FishInfo : MonoBehaviour
 {
+    // handle fish's behaviour
+
     // private field
     private GameManager gameManager;
+    public int price;
 
     private void Awake()
     {

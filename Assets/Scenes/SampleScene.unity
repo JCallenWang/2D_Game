@@ -2077,6 +2077,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnFishArea: {fileID: 1601755152}
   mainGameArea: {fileID: 284587433}
+  coinPanel: {fileID: 1308262209}
+  coinTextBox: {fileID: 39962674}
   spawnFishButton:
   - {fileID: 1190652935}
   - {fileID: 112776704}
@@ -2085,13 +2087,6 @@ MonoBehaviour:
   - {fileID: 2128913502}
   - {fileID: 1330259235}
   - {fileID: 827294802}
-  fishPrefabs:
-  - {fileID: 7715688148212412263, guid: e63a55ff836a3264c94c12accfb6ae98, type: 3}
-  - {fileID: 7715688148212412263, guid: 85f01bc903311c944bca9eb46211b87c, type: 3}
-  - {fileID: 7715688148212412263, guid: 1fb328a8026ffca45b778a3b865c6d14, type: 3}
-  - {fileID: 7715688148212412263, guid: 1af7a48bef663654d9094f38423fd8ab, type: 3}
-  - {fileID: 7715688148212412263, guid: 0c1b26eff1b3e7a41bcfef35c01b5c1d, type: 3}
-  - {fileID: 7715688148212412263, guid: a09e206dfc010de4b9a3be2b91d7a806, type: 3}
 --- !u!1 &1308262209
 GameObject:
   m_ObjectHideFlags: 0
